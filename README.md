@@ -1,0 +1,2 @@
+# Gestione-ed-analisi-dei-Big-Data-in-R-confronto-tra-i-pacchetti-bigmemory-e-ff
+Questo progetto contiene la tesi dedicata alla gestione dei Big Data in R, con un confronto tra i pacchetti bigmemory e ff. L’obiettivo è analizzare come questi strumenti permettano di lavorare con dataset troppo grandi per la memoria RAM, valutando differenze in termini di struttura, prestazioni, utilizzo della memoria e tempi di esecuzione. 
